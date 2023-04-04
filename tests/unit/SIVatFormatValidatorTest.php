@@ -3,6 +3,7 @@
 namespace rocketfellows\SIVatFormatValidator\tests\unit;
 
 use PHPUnit\Framework\TestCase;
+use rocketfellows\SIVatFormatValidator\SIVatFormatValidator;
 
 class SIVatFormatValidatorTest extends TestCase
 {
